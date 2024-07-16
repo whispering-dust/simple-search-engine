@@ -1,6 +1,6 @@
 # MinSearch
 
-本文是记录跟随llm-zoomcamp的开源课程[Build Your Own Search Engine](https://github.com/alexeygrigorev/build-your-own-search-engine)实现一个简易搜索引擎的过程，该项目主要为后续课程内容的基础。项目包含三个notebook：
+本项目是记录跟随llm-zoomcamp的开源课程[Build Your Own Search Engine](https://github.com/alexeygrigorev/build-your-own-search-engine)实现一个简易搜索引擎的过程，该项目主要为后续课程内容的基础。项目包含三个notebook：
 
 - text-base-impl-process：记录了基于文本搜索的实现过程
 - Text-base-search-engine：是封装后的简易文本搜索引擎
